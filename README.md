@@ -1,5 +1,7 @@
 # Matheus Augusto Braga Pivoto 1711 - GEC!
 
+[![CI Desafio Aula 8](https://github.com/MatheusBraga71/C214_L1_Aula8/actions/workflows/ci.yml/badge.svg)](https://github.com/MatheusBraga71/C214_L1_Aula8/actions/workflows/ci.yml)
+
 ## Sobre o projeto:
 
 O projeto é um sistema que permite ao usuário criar, visualizar, atualizar e excluir tarefas de uma lista, de forma interativa via terminal. Para o desenvolvimento foram utilizados o mocha e chai, usando a linguagem JavaScript.
